@@ -13,6 +13,9 @@ Customers (Fans) A customer is the user that has registered their personal data 
 
 
 Guest They are unregistered users or users who have not logged in yet.They can log in, register (sign up), and/or view the current match details.
+
+To Run The Project:
+(```homepage.php```)
 MADE BY :
 Hassan Hatem,
 Mohamed Gamal,
